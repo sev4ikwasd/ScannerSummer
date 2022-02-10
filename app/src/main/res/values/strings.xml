@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scanner Summer</string>
+    <string name="bar_code_edit_text_hint">Штрих-код</string>
+    <string name="weight_text">Вес:</string>
+    <string name="kg_text">кг</string>
+    <string name="reset_button">Сброс</string>
+    <string name="invalid_code">Неверный код</string>
+</resources>
