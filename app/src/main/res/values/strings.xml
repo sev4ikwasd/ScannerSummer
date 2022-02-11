@@ -4,5 +4,6 @@
     <string name="weight_text">Вес:</string>
     <string name="kg_text">кг</string>
     <string name="reset_button">Сброс</string>
-    <string name="invalid_code">Неверный код</string>
+    <string name="invalid_bar_code_length">Штрих-код неподдерживаемой длины</string>
+    <string name="invalid_bar_code_weight">Недалось извлечь вес из штрих-кода</string>
 </resources>
